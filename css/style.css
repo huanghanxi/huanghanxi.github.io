@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none}
+ul li ol {list-style-type: none}
+.box1{
+    width: 1142px;
+    height: 43px;
+    margin: 0 auto;
+}
